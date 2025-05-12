@@ -1,0 +1,8 @@
+ ipykernel
+ numpy
+ pandas
+ matplotlib
+ bs4
+ seaborn
+ request
+ flask
